@@ -15,6 +15,14 @@ while True:
     print("Minimum =", minimum)
     print("Maximum =", maximum)
 
-    # choice = input("Continue? (y/n): ").lower()
-    # if choice != 'y':
-    #     break
+# """
+#Output
+# Enter a value (0 to 1): 0.8
+# Minimum = 0.8
+# Maximum = 0.8
+
+# Enter a value (0 to 1): 0.6
+# Minimum = 0.6
+# Maximum = 0.8
+
+# """
